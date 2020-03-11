@@ -6,6 +6,7 @@ import book.bo.Gender;
 
 public class App {
 
+
     public static void main(String[] args) {
 
         Contact contact = new Contact("Parra", "Adrien", "06.83.79.79.60", Gender.M);
